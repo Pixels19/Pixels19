@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Juliana Uribe
 - 👀 I’m interested in making fun video games
-- 🌱 I’m currently learning java and python
+- 🌱 I’m currently learning java and python and hope to learn C++
 - 📫 How to reach me jutirado2004@gmail.com
   
 
